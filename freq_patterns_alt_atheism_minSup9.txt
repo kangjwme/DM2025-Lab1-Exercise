@@ -3317,12 +3317,12 @@ ignorance:18
 1993apr15:18
 require:18
 healta:18
-healta	gmt:10
-healta	gmt	college:9
 healta	date:10
 healta	date	gmt:9
 college	healta	date	gmt:9
 healta	date	college:10
+healta	gmt:10
+healta	gmt	college:9
 healta	college:12
 healy:18
 healy	gmt:10
@@ -3373,8 +3373,8 @@ allow	supposed:9
 whose:20
 local:20
 proof:20
-proof	nor:9
 proof	ones:9
+proof	nor:9
 meant:20
 gave:20
 marriage:20
